@@ -60,7 +60,7 @@ public class Example1 {
 				}
 				else
 				{
-					System.out.println("No Bonus Bruhh...\n");
+					System.out.println("No Bonus Bruhh....\n");
 				}
 			}
 		};
