@@ -37,7 +37,7 @@ class Employee{
 }
 public class Example1 {
 	public static void main(String[] args) {
-		Predicate<Employee> predicate = new Predicate<Employee>() {
+		Predicate<Employee> predicate  = new Predicate<Employee>() {
 			
 			@Override
 			public boolean test(Employee e) {
